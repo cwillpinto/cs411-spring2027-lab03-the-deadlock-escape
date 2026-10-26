@@ -5,6 +5,8 @@
 **Due:** January 31, 2027  
 **Value:** 100 points
 
+**Starter repository:** [Open the Spring 2027 starter](https://github.com/cwillpinto/cs411-spring2027-lab03-the-deadlock-escape)
+
 ## Purpose
 
 Two workers acquire the same locks in opposite orders. Build the wait-for graph, connect the cycle to the Coffman conditions, and refactor both paths to preserve safety without deadlock or livelock.
